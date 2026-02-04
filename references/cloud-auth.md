@@ -2,7 +2,10 @@
 
 ## Login
 
-Use `spin cloud login` and complete the device code flow.
+Use `spin cloud login` and complete the device code flow:
+- Copy the one-time code shown in the terminal.
+- Open the device authorization URL and enter the code.
+- Wait for the CLI to confirm success.
 
 ## Cloud Plugin
 

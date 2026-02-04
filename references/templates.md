@@ -18,3 +18,4 @@ Notes
 - `spin templates install` expects a repo with a `templates/` directory.
 - Supported sources: `--git`, `--dir`, `--tar`. Optional `--branch` to target a specific tag or branch.
 - After install, re-run `spin templates list` and pick the template id for `spin new` or `spin add`.
+- `spin new` prompts for app name even with `--accept-defaults` (TTY required).
