@@ -11,7 +11,7 @@ Codex skill for creating, building, running, deploying, and troubleshooting Spin
 ## Install (local)
 
 ```bash
-ln -s /Users/jackley/Developer/oss/create-spin-app /Users/jackley/.codex/skills/create-spin-app
+ln -s /path/to/create-spin-app ~/.codex/skills/create-spin-app
 ```
 
 Restart Codex to pick up new skills.
