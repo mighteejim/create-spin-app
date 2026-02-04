@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Spin App"
+  short_description: "Create, build, run, deploy, and troubleshoot Spin apps"
+  default_prompt: "Create a Spin app from templates, build/run locally, and deploy to Fermyon Cloud if requested. Use references and CLI commands as needed."
