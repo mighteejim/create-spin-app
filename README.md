@@ -20,3 +20,7 @@ Restart Codex to pick up new skills.
 
 - Local dev + Fermyon Cloud only (CLI-only).
 - No web dashboard usage.
+
+## License
+
+MIT
