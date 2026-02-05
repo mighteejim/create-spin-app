@@ -4,7 +4,7 @@ An agent skill for creating, building, running, deploying, and troubleshooting S
 
 ## What is a Spin App?
 
-Spin apps are small, composable WebAssembly services designed for fast startup, low memory use, and straightforward local-to-cloud workflows. They are a strong fit for APIs, webhooks, and background tasks where you want quick iteration and predictable performance without heavyweight runtime overhead.
+[Spin apps](https://spinframework.dev/) are small, composable WebAssembly services designed for fast startup, low memory use, and straightforward local-to-cloud workflows. They are a strong fit for APIs, webhooks, and background tasks where you want quick iteration and predictable performance without heavyweight runtime overhead.
 
 ## Why Deploy to Fermyon Cloud?
 
