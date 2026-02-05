@@ -22,6 +22,7 @@ Codex skill for creating, building, running, deploying, and troubleshooting Spin
 - [Fermyon Cloud Docs](https://developer.fermyon.com/cloud)
 - [Spin Docs](https://spinframework.dev/)
 - [Install Spin](https://spinframework.dev/v3/install)
+- [Codex Skills Repo](https://github.com/openai/skills)
 
 ## Install (local)
 
@@ -30,6 +31,14 @@ ln -s /path/to/create-spin-app ~/.codex/skills/create-spin-app
 ```
 
 Restart Codex to pick up new skills.
+
+## Install (Codex $skill-installer)
+
+From Codex, use $skill-installer and a GitHub directory URL. Example:
+
+```
+$skill-installer install https://github.com/mighteejim/create-spin-app
+```
 
 ## Notes
 
