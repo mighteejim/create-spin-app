@@ -1,6 +1,6 @@
-# create-spin-app (Spin + Fermyon)
+# create-spin-app -- create, build, run, and deploy Spin apps with your favorite coding agent.
 
-Codex skill for creating, building, running, deploying, and troubleshooting Spin applications.
+Agent skill for creating, building, running, deploying, and troubleshooting Spin applications.
 
 ## Contents
 
