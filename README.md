@@ -1,14 +1,14 @@
 # spin-deploy (Spin + Fermyon)
 
-Codex skill for creating, building, running, deploying, and troubleshooting Spin applications.
+An agent skill for creating, building, running, deploying, and troubleshooting Spin applications.
 
-## What Is A Spin App?
+## What is a Spin App?
 
 Spin apps are small, composable WebAssembly services designed for fast startup, low memory use, and straightforward local-to-cloud workflows. They are a strong fit for APIs, webhooks, and background tasks where you want quick iteration and predictable performance without heavyweight runtime overhead.
 
-## Why Deploy To Fermyon Cloud?
+## Why Deploy to Fermyon Cloud?
 
-Fermyon Cloud is the native home for Spin apps: low-latency global edge deployment, fast cold starts, and a CLI-first workflow that matches local development. Deploy with `spin cloud deploy` and get a public URL quickly, without changing your app structure.
+[Fermyon Cloud](https://developer.fermyon.com/cloud) is the native home for Spin apps: low-latency global edge deployment, fast cold starts, and a CLI-first workflow that matches local development. Deploy with `spin cloud deploy` and get a public URL quickly, without changing your app structure.
 
 ## Contents
 
