@@ -1,6 +1,6 @@
-# create-spin-app -- create, build, run, and deploy Spin apps with your favorite coding agent.
+# spin-deploy
 
-Agent skill for creating, building, running, deploying, and troubleshooting Spin applications.
+An agent skill for creating, building, running, deploying, and troubleshooting Spin applications. Supports deploying your apps on Fermyon Cloud through the `spin` CLI.
 
 ## Contents
 
