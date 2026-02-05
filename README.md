@@ -1,4 +1,4 @@
-# create-spin-app
+# create-spin-app (Spin + Fermyon)
 
 Codex skill for creating, building, running, deploying, and troubleshooting Spin applications.
 
@@ -7,6 +7,12 @@ Codex skill for creating, building, running, deploying, and troubleshooting Spin
 - `SKILL.md`: Skill definition and workflow
 - `agents/openai.yaml`: UI metadata
 - `references/`: Capability matrix, templates, plugins, build/run, and Fermyon Cloud deploy refs
+
+## Links
+
+- [Fermyon](https://www.fermyon.com/)
+- [Fermyon Cloud Docs](https://developer.fermyon.com/cloud)
+- [Spin Docs](https://spinframework.dev/)
 
 ## Install (local)
 
