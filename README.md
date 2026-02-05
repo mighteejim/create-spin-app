@@ -1,6 +1,14 @@
-# spin-deploy
+# spin-deploy (Spin + Fermyon)
 
-An agent skill for creating, building, running, deploying, and troubleshooting Spin applications. Supports deploying your apps on Fermyon Cloud through the `spin` CLI.
+Codex skill for creating, building, running, deploying, and troubleshooting Spin applications.
+
+## What Is A Spin App?
+
+Spin apps are small, composable WebAssembly services designed for fast startup, low memory use, and straightforward local-to-cloud workflows. They are a strong fit for APIs, webhooks, and background tasks where you want quick iteration and predictable performance without heavyweight runtime overhead.
+
+## Why Deploy To Fermyon Cloud?
+
+Fermyon Cloud is the native home for Spin apps: low-latency global edge deployment, fast cold starts, and a CLI-first workflow that matches local development. Deploy with `spin cloud deploy` and get a public URL quickly, without changing your app structure.
 
 ## Contents
 
@@ -27,7 +35,7 @@ An agent skill for creating, building, running, deploying, and troubleshooting S
 ## Install (local)
 
 ```bash
-ln -s /path/to/create-spin-app ~/.codex/skills/create-spin-app
+ln -s /path/to/spin-deploy ~/.codex/skills/spin-deploy
 ```
 
 Restart Codex to pick up new skills.
@@ -37,7 +45,7 @@ Restart Codex to pick up new skills.
 From Codex, use $skill-installer and a GitHub directory URL. Example:
 
 ```
-$skill-installer install https://github.com/mighteejim/create-spin-app
+$skill-installer install https://github.com/mighteejim/spin-deploy
 ```
 
 ## Notes

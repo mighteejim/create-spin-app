@@ -1,5 +1,5 @@
 ---
-name: create-spin-app
+name: spin-deploy
 description: Create, build, run, deploy, and troubleshoot Spin applications. Use for requests to scaffold a Spin app, pick a language or template based on capability requirements, install or update templates/plugins, run `spin build`, `spin up`, or `spin watch`, deploy with `spin cloud deploy`, manage Fermyon Cloud variables, and diagnose issues with `spin doctor` or `spin cloud`.
 ---
 
